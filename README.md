@@ -1,2 +1,2 @@
 # portfolio
-A web developer's portfolio using github pages
+A sample portfolio using github pages
